@@ -9,7 +9,14 @@ Skills set used:
 - Exploratory Data Analysus (EDA) : Univariate EDA, Bivariate EDA , EDA by species
 - Correlations: Pearason , spearman, Kendall
 - K-mean clustering of certain chosen correlations
-- Prinicple component analysis 
+- Prinicple component analysis (PCA)
 
+Library used: 
+- pandas
+- numpy
+- maplotlib.pyplot
+- seaborn
+- sklearn.cluster
+- sklearn.preprocessing
 
 Dataset for penguin : https://github.com/allisonhorst/palmerpenguins
